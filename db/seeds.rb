@@ -10,7 +10,7 @@ User.create!([
   {
     name: "Holly",
     email: "holly@example.com",
-    password_digest: "password",
+    password_digest: "",
     admin: true
   }
 ])
