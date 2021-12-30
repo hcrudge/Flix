@@ -9,7 +9,7 @@
 User.create!([
   {
     name: "Holly",
-    email: "holly3@example.com",
+    email: "holly@example.com",
     password_digest: "password",
     admin: true
   }
